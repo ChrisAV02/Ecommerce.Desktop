@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CQOfiPXrwD4=",
+  "dgSpecHash": "m2uAD+fU6xw=",
   "success": true,
   "projectFilePath": "C:\\Users\\Chris\\Desktop\\Estudios\\Proyectos\\Proyecto Mass\\Proyecto\\Ecommerce.Desktop\\Ecommerce.Desktop.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.web.webview2\\1.0.4314.35\\microsoft.web.webview2.1.0.4314.35.nupkg.sha512"
+  ],
   "logs": []
 }
